@@ -19,6 +19,7 @@ This Employee Management System performs basic CRUD Operations.
 - Delete any Employee Detail with single click and auto Serial No. adjustment.
 
 > This Application was created using Python, Django, HTML/CSS, and Bootstrap.
+![ss_emp](https://user-images.githubusercontent.com/100552311/201349184-063efe60-c068-4d98-84ed-17293a3cc12e.png)
 
 ## Sample GIF
 
