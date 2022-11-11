@@ -22,7 +22,7 @@ This Employee Management System performs basic CRUD Operations.
 ## Sample GIF
 
 
-![Employee Management System](C:\Users/swath/Downloads/Screenshot 2022-11-11 184228.png)
+![Employee Management System](http:C:/Users/swath/Downloads/Screenshot 2022-11-11 184228.png)
 
 ## Installation
 
