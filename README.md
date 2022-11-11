@@ -21,7 +21,8 @@ This Employee Management System performs basic CRUD Operations.
 
 ## Sample GIF
 
-![Employee Management System](https://raw.githubusercontent.com/Shobhit1338/Employee-Management-System/main/EMS.gif)
+
+![Employee Management System](C:\Users/swath/Downloads/Screenshot 2022-11-11 184228.png)
 
 ## Installation
 
