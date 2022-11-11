@@ -10,6 +10,7 @@ This Employee Management System performs basic CRUD Operations.
 
 ## Features 
 
+
 - Add Details such as Name, ID, Phone, Address, Working Status & Department.
 - Uses single form to add details one at a time.
 - Select Department using Dropdown menu & Working Status using Checkbox.
@@ -21,7 +22,7 @@ This Employee Management System performs basic CRUD Operations.
 
 ## Sample GIF
 
-
+![Uploading Screenshot 2022-11-11 184228.png…]()
 ![Employee Management System](C:/Users/swath/Downloads/Screenshot 2022-11-11 184228.png)
 
 ## Installation
